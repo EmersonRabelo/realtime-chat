@@ -1,0 +1,44 @@
+{
+  "hash": "c612b0b0",
+  "browserHash": "1b869def",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "1410b025",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f524b26c",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "b2dbe5ea",
+      "needsInterop": false
+    },
+    "react-chat-engine-pretty": {
+      "src": "../../node_modules/react-chat-engine-pretty/dist/react-chat-engine-pretty.esm.js",
+      "file": "react-chat-engine-pretty.js",
+      "fileHash": "54b62f96",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-RVSLBP3T": {
+      "file": "chunk-RVSLBP3T.js"
+    },
+    "chunk-ST3U5LCA": {
+      "file": "chunk-ST3U5LCA.js"
+    },
+    "chunk-VVD53KHL": {
+      "file": "chunk-VVD53KHL.js"
+    },
+    "chunk-DFKQJ226": {
+      "file": "chunk-DFKQJ226.js"
+    }
+  }
+}
