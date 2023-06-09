@@ -18,16 +18,16 @@ O Express é um framework para aplicativos web do Node.js que facilita a criaç�
 O Nodemon é uma ferramenta de desenvolvimento que monitora alterações no código e reinicia automaticamente o servidor quando as alterações são detectadas. Isso permite um fluxo de desenvolvimento mais suave e elimina a necessidade de reiniciar manualmente o servidor a cada modificação.
 
 ### Autenticação
-![Autenticação](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/Auth.png)
+![Autenticação](https://github.com/EmersonRabelo/realtime-chat/blob/master/client/src/assets/images/Auth.png)
 
 ### Procurar usuários
-![Procurar usuários](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/search-for-users.png)
+![Procurar usuários](https://github.com/EmersonRabelo/realtime-chat/blob/master/client/src/assets/images/search-for-users.png)
 
 ### Criar grupo com multiplos integrantes
-![Criar grupo com multiplos integrantes](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/create-group-or-chat.png)
+![Criar grupo com multiplos integrantes](https://github.com/EmersonRabelo/realtime-chat/blob/master/client/src/assets/images/create-group-or-chat.png)
 
 ### Enviar anexos
-![Enviar anexos](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/send-attachments.png)
+![Enviar anexos](https://github.com/EmersonRabelo/realtime-chat/blob/master/client/src/assets/images/send-attachments.png)
 
 ### Exemplo de chat
-![Exemplo de chat](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/group-chatting.png)
+![Exemplo de chat](https://github.com/EmersonRabelo/realtime-chat/blob/master/client/src/assets/images/group-chatting.png)
