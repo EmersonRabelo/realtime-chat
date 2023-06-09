@@ -1,9 +1,11 @@
 # Realtime Chat
-O projeto é um chat em tempo real que utiliza uma combinação de tecnologias para fornecer uma experiência interativa e envolvente aos usuários. Ele é desenvolvido utilizando o Chat Engine, React, Axios, Node.js, Express e Nodemon.
+O projeto é um chat em tempo real que utiliza uma combinação de tecnologias para fornecer uma experiência interativa e envolvente aos usuários. Ele é desenvolvido utilizando o Chat Engine, React, Axios, Node.js, VITE, Express e Nodemon.
 
 
 ## Techs
 O Chat Engine é uma plataforma que fornece uma estrutura de chat pronta para uso, permitindo que os desenvolvedores criem facilmente um sistema de chat em tempo real. Ele oferece recursos como mensagens em tempo real, salas de chat, autenticação de usuários e muito mais.
+
+O VITE é uma ferramenta de construção rápida e leve para aplicativos web modernos. Ele oferece um ambiente de desenvolvimento altamente eficiente, permitindo que os desenvolvedores construam e atualizem rapidamente seus projetos. Com o VITE, é possível aproveitar recursos como a compilação rápida, a recarga instantânea e o suporte nativo para módulos ECMAScript, facilitando o desenvolvimento e a execução de aplicativos web de alto desempenho.
 
 O React é uma biblioteca JavaScript popular para a criação de interfaces de usuário interativas. Ele permite que você crie componentes reutilizáveis ​​e dinâmicos, facilitando a criação de uma interface de chat intuitiva e responsiva.
 
