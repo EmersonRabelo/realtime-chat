@@ -16,3 +16,18 @@ O Node.js é um ambiente de tempo de execução JavaScript que permite que você
 O Express é um framework para aplicativos web do Node.js que facilita a criação de rotas, manipulação de solicitações e respostas HTTP, e gerenciamento de middleware. Ele fornece uma base sólida para a criação do servidor de chat.
 
 O Nodemon é uma ferramenta de desenvolvimento que monitora alterações no código e reinicia automaticamente o servidor quando as alterações são detectadas. Isso permite um fluxo de desenvolvimento mais suave e elimina a necessidade de reiniciar manualmente o servidor a cada modificação.
+
+### Autenticação
+![Autenticação](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/Auth.jpeg)
+
+### Procurar usuários
+![Procurar usuários](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/search-for-users.jpeg)
+
+### Criar grupo com multiplos integrantes
+![Criar grupo com multiplos integrantes](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/create-group-or-chat.jpeg)
+
+### Enviar anexos
+![Enviar anexos](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/send-attachments.jpeg)
+
+### Exemplo de chat
+![Exemplo de chat](https://github.com/EmersonRabelo/realtime-chat/tree/master/client/src/assets/images/group-chatting.jpeg)
